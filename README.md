@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Dutta</h1>
 <h3 align="center">A passionate Engineer and Singer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <a href="https://twitter.com/@adityad00782384" target="blank"><img src="https://img.shields.io/twitter/follow/@adityad00782384?logo=twitter&style=for-the-badge" alt="@adityad00782384" /></a> </p>
 
