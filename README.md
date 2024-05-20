@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@adityad00782384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adityad00782384" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aditya-dutta-a0a2bb171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-dutta-a0a2bb171/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100089904858541&mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089904858541&mibextid=kfxxjd" height="30" width="40" /></a>
-<a href="/https://www.youtube.com/@adityaabirofficial5523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@adityaabirofficial5523" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adityaabirofficial5523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@adityaabirofficial5523" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
